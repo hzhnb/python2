@@ -1,0 +1,1 @@
+print("I love finshc.com\n" + 8)
